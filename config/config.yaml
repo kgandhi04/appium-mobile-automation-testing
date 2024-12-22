@@ -1,0 +1,6 @@
+default:
+  platformName: "Android"
+  platformVersion: "11"
+  deviceName: "emulator-5554"
+  appPath: "/path/to/your-app.apk"
+  automationName: "UiAutomator2"
